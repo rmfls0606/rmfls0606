@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-### :octocat:: 안녕하세요? IOS개발자를 꿈꾸는 고구마입니다.🍠
+### :octocat: 안녕하세요? IOS개발자를 꿈꾸는 고구마입니다.🍠
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
