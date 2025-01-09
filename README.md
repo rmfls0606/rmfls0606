@@ -1,6 +1,6 @@
 ## IOS개발자를 위한 공부 시작하기
 
-### :octocat:안녕하세요? IOS개발자를 꿈꾸는 고구마입니다.🍠
+### :octocat:안녕하세요? IOS개발자를 꿈꾸는 킁킁입니다.🍠
 
 <!--
 - 🔭 I’m currently working on ...
