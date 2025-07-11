@@ -2,6 +2,14 @@
 
 ### :octocat:안녕하세요? IOS개발자를 꿈꾸는 킁킁입니다.🍠
 
+### MY Stat
+
+<div align = "left">
+<img src="https://github-readme-stats.vercel.app/api?username=rmfls0606" height="170">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rmfls0606"  height="170">
+</div>
+  
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
