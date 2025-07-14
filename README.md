@@ -1,8 +1,11 @@
-## iOS개발자를 위한 공부 시작하기
+## 🍎 안녕하세요! iOS개발자 이상민입니다.
+<a href="https://stpotato.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory#000000ry&logoColor=white"/></a>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:coocoo0606@gmail.com)
 
-### :octocat:안녕하세요? iOS개발자를 꿈꾸는 킁킁입니다.🍠
+## ⚙️ Tech Stack
+<img alt="iOS" src ="https://img.shields.io/badge/iOS-000000.svg?&style=flat-square&logo=Apple&logoColor=white"/> <img alt="Swift" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=flat-square&logo=Swift&logoColor=white"/> <img alt="UIKit" src ="https://img.shields.io/badge/UIKit-2396F3.svg?&style=flat-square&logo=UIKit&logoColor=white"/> <img alt="SwiftUI" src ="https://img.shields.io/badge/SwiftUI-%23007AFF.svg?&style=flat-square&logo=Swift&logoColor=white"/>
 
-### MY Stat
+## 🛠️ MY Stat
 
 <div align = "left">
 <img src="https://github-readme-stats.vercel.app/api?username=rmfls0606" height="170">
